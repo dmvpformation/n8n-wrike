@@ -1,15 +1,15 @@
 {
   "name": "n8n-nodes-wrike",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "n8n node to call wrike apis",
   "keywords": [
     "n8n-community-node-package"
   ],
   "license": "MIT",
-	"homepage": "https://n8n.io",
+	"homepage": "https://github.com/dmvpformation/n8n-wrike",
   "author": {
-		"name": "Test",
-		"email": "test@example.com"
+		"name": "levytation",
+		"email": "contact@levytation.fr"
 	},
   "repository": {
     "type": "git",
