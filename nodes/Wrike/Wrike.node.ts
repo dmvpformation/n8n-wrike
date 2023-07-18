@@ -18,7 +18,7 @@ export class Wrike implements INodeType {
 		group: ['transform'],
 		version: 1,
 		subtitle: '={{ $parameter["operation"] + ": " + $parameter["resource"] }}',
-		description: 'Wrike API API',
+		description: 'Wrike API',
 		defaults: {
 			name: 'Wrike',
 		},
